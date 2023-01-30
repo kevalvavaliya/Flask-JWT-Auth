@@ -1,0 +1,7 @@
+flask
+flask-smorest
+python-dotenv
+flask-jwt-extended
+flask_cors
+mysql-connector-python
+twilio
